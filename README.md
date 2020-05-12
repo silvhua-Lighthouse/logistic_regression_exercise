@@ -1,2 +1,2 @@
-# DataBootcamp_Week5_Day2_Exercise
+# Logistic Regression Exercises
 Exercises for DataBootcamp Week 5 Day 2
